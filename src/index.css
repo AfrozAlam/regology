@@ -1,0 +1,24 @@
+.childBox {
+    border: 1px dotted rgb(184, 178, 178);
+    padding: 10px;
+    margin: 10px;
+}
+.divStyle1 {
+    display: flex;
+}
+.divStyle2 {
+    padding: 10px;
+}
+.divStyle3 {
+    display: flex;
+    padding: 10px;
+}
+.textarea {
+    width: 100%;
+}
+.replyButton {
+    cursor: pointer;
+}
+.hideButton {
+    cursor: pointer;
+}
